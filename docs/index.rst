@@ -5,9 +5,13 @@
 
 Welcome to IoC.Configuration's documentation!
 =============================================
+.. _register-registration-reflection-components:
+
+Reflection Components
+=====================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
